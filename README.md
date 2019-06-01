@@ -1,6 +1,6 @@
 # TSS:404
 
-#Autor: Dawid Łakomiec
+# Autor: Dawid Łakomiec
 
 Projekt realizowany w ramach zajęć z przedmiotu Technologie Server-Side.
 
