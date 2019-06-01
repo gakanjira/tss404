@@ -1,5 +1,7 @@
 # TSS:404
 
+#Autor: Dawid Łakomiec
+
 Projekt realizowany w ramach zajęć z przedmiotu Technologie Server-Side.
 
 ## Instrukcja instalacji
